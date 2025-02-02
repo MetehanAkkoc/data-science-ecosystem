@@ -1,2 +1,2 @@
-# data-science-ecosystem
-Jupyter Notebook for the "Tools for Data Science" course. This notebook explores the Data Science Ecosystem.
+# Data Science Ecosystem
+This repository contains the **"Data Science Ecosystem"** Jupyter Notebook, created for the final assignment of **Tools for Data Science** course.
